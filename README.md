@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @airtoncnp3
 - 👀 I’m interested in learning more about programming and information technology
-- 🌱 I’m currently learning JavaScript & NodeJS at DIO
+- 🌱 I’m currently learning Python in Curso em Vídeo
 - 💞️ I’m looking to collaborate on EVERYTHING i'm already capable of (still not much lol)
 
 <!---
